@@ -8,6 +8,7 @@ Fork this repo and add your components
 
 ### Components currently available   
 
+- Card layout
 - Navbar
 - Navbar with scroll effect
-- Card layout
+
