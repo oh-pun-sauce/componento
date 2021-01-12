@@ -10,3 +10,4 @@ Fork this repo and add your components
 
 - Navbar
 - Navbar with scroll effect
+- Card layout
