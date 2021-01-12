@@ -7,4 +7,5 @@ Fork this repo and add your components
 
 ### Components currently available   
 
-Navbar (Boostrap)
+- Navbar
+- Navbar with scroll effect
