@@ -1,5 +1,5 @@
 .dropdown-toggle::after {
-    display: none;
+    display: none !important;
   }
 .text-decoration-none{
   text-decoration: none!important;

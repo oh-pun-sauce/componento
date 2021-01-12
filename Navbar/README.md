@@ -1,10 +1,7 @@
-# Web-Components   
+# Navbar   
 
-Frequently used website components to speed up your development cycle.   
-   
-### Contribution   
-Fork this repo and add your components   
-
-### Components currently available   
-
-Navbar (Boostrap)
+### Dependencies/ frameworks used   
+- Bootstrap CSS  
+- Bootstrap JS  
+- jQuery  
+- Font awesome  
