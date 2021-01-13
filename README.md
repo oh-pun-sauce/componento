@@ -16,5 +16,7 @@ Frequently used website components to speed up your development cycle.
 
 - Card layout
 - Navbar
-- Navbar with scroll effect
+    - Simple Navbar
+    - Navbar with scroll effect
+
 
