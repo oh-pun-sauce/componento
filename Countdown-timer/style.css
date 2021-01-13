@@ -1,0 +1,55 @@
+
+.timer {
+    text-align: center;
+    background-color: #f5f5f5;
+}
+
+
+.timer-time {
+    font-weight: 700;
+    font-size: 4rem;
+    
+    
+    
+}
+
+.timer-dhs {
+    
+    font-weight: normal;
+    font-size: 1.5rem;
+    display: block;
+    letter-spacing: -1px;
+}
+
+
+
+#day, #hr, #min, #sec {
+    color: #4630eb;
+}
+
+
+.text-bigg {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -2px;
+}
+
+.text-bigg:hover {
+
+    transition: 0.4s;
+    transform: scale(1.012);
+}
+.text-subb {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #7b7b7b;
+}
+
+
+.blue-under {
+    height: 5px;
+    width: 100px;
+    background-color: #4630eb;
+    border-radius: 100px;
+    
+}
