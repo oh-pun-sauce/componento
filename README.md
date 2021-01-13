@@ -18,5 +18,6 @@ Frequently used website components to speed up your development cycle.
 - Navbar
     - Simple Navbar
     - Navbar with scroll effect
+    - Navbar-2 with dark mode
 
 
