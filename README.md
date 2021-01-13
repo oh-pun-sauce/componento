@@ -7,17 +7,18 @@ Frequently used website components to speed up your development cycle.
  
    
 ### Contribution   
-- Fork this repo, add your components, and submit it a s pull request. 
-- Organize the code in folders with appropriate names. Please don't use spaces in foldernames.
+- Fork this repo, add your components, and submit it as pull request. 
+- Organize the code in folders with appropriate names. Please don't use spaces in folder names.
 - Add only the necessary HTML, CSS and Javascript code.
 - Add a README.md file in each folder indicating the dependencies/frameworks used and any other relevant details.   
    
 ### Components currently available   
 
 - Card layout
+    - Simple card layout
 - Navbar
     - Simple Navbar
     - Navbar with scroll effect
-    - Navbar-2 with dark mode
+    - Navbar with dark mode
 
 
