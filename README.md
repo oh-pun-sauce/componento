@@ -11,7 +11,8 @@ Resources are mostly collected from Codepen. Credits to the respective owners ar
 
 - Card layout
     - Simple card layout
-
+   
+      
 - Navbar
     - Simple Navbar
     - Navbar with scroll effect
