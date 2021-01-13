@@ -1,4 +1,4 @@
-# Web Components Library   
+# Componento   
    
 [![Netlify Status](https://api.netlify.com/api/v1/badges/66adbf0b-e63e-46ff-9906-405f7f07692a/deploy-status)](https://app.netlify.com/sites/webclib/deploys)  
     
