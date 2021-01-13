@@ -2,6 +2,10 @@
 ### Credits
 (https://github.com/smaranjitghose/awesome-portfolio-websites)
 ### Dependencies/ frameworks used   
-- CSS  
-- JS   
+- Bootstrap  
+- Materialize   
+- Material icons   
 - Font awesome  
+- Iconify   
+- jQuery   
+- Particles.js
