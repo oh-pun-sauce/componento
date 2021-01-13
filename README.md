@@ -19,7 +19,7 @@ Resources are mostly collected from Codepen. Credits to the respective owners ar
 - Navbar
     - Simple Navbar
     - Navbar with scroll effect
-    - Navbar with dark mode
+    - Navbar with dark mode toggle   
 
 ### Contribution   
 - Fork this repo, add your components, and submit it as pull request. 
