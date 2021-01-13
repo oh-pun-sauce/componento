@@ -1,0 +1,67 @@
+/*Declaration of CSS variables for light/dark theme*/
+
+html[data-theme="light"] {
+  --shadow-col: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="dark"] {
+  --col-white: #fff;
+}
+
+/* Particle effect*/
+
+#home{
+  position: relative;
+  height: 100vh;
+  width: 100%;
+}
+
+
+
+@keyframes blink {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+
+/* Footer container */
+
+.webintern-footer {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.footer-left {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  margin: auto;
+}
+
+/* Responsive */
+@media only screen and (max-width: 450px) {
+  .text {
+    margin-top: 5rem;
+  }
+
+  a.footer-email i {
+    font-size: 1.2rem;
+    right: 8px;
+  }
+
+  .webintern-footer {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-left, .footer-right {
+    width: 100%;
+  }
+}
+
+
