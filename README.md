@@ -3,7 +3,9 @@
     
 A collection of frequently used website components to speed up your development cycle. 
      
-Resources are mostly collected from Codepen. Credits to the respective owners are given in the README.md in the respective folders.
+Resources are mostly collected from Codepen. Credits to the respective owners are given in the README.md in the respective folders.  
+  
+[Live Demo](https://componento.netlify.app)
  
    
 ### Components currently available   
