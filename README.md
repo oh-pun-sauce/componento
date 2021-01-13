@@ -28,7 +28,7 @@ Resources are mostly collected from Codepen. Credits to the respective owners ar
 - Organize the code into proper files (.css, .js etc) (Don't add every piece of code into a single HTML file)
 - Add necessary comments if possible   
 - Add a README.md file in each folder indicating the dependencies/frameworks used and any other relevant details.   
-- Give proper credits to the owners in the README file
+- Give proper credits to the owners in the README file in each folder   
    
 
 
