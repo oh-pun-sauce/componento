@@ -4,13 +4,14 @@
     
 A collection of frequently used website components to speed up your development cycle. 
      
-Resources are mostly collected from Codepen. All rights reserved to the respective owners.
+Resources are mostly collected from Codepen. Credits to the respective owners are given in the README.md in the respective folders.
  
    
 ### Components currently available   
 
 - Card layout
     - Simple card layout
+
 - Navbar
     - Simple Navbar
     - Navbar with scroll effect
